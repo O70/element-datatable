@@ -1,20 +1,19 @@
 {
   "name": "element-datatable",
   "version": "1.0.0",
+  "license": "MIT",
+  "author": "O70 <THRAEX@aliyun.com>",
   "description": "",
-  "main": "index.js",
+  "keywords": ["vue", "element-ui", "el-table"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/O70/element-datatable.git"
+    "url": "git+https://github.com/THRAEX-70/element-datatable.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/O70/element-datatable/issues"
+    "url": "https://github.com/THRAEX-70/element-datatable.git"
   },
-  "homepage": "https://github.com/O70/element-datatable#readme"
+  "homepage": "https://github.com/THRAEX-70/element-datatable#readme"
 }
